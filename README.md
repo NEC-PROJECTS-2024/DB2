@@ -14,4 +14,4 @@ Loans are a crucial part of the modern world, and banks receive a significant po
 ### Dataset
 Link- https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/
 ### Deployment
-Link- [https://www.deploymenturl.com/view](http://13.50.243.144:3000/)
+Link- http://13.50.243.144:3000/
